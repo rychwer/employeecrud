@@ -1,0 +1,8 @@
+server:
+  port: 8004
+
+api:
+  service:
+    address:
+      appKey: NPY2FNNMOdWQqAjKlMQ6bcGh9ozM5t8T
+      appSecret: qtHs7PO3EuUoeywOSU6PktxBjIzabuyz0BRMOUk7aq5SZw3A
